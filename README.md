@@ -1,2 +1,1 @@
-# killer-cash
-殺手現金
+# killer cash
